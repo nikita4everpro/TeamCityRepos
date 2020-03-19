@@ -9,7 +9,7 @@ int main()
 {
 	cout << "Hello World!" << endl;
 	cout << "Hello 2!" << endl;
-	cout << "Hello 3!" << endl;
+	cout << "Hell
 
 	system("pause");
     return 0;
